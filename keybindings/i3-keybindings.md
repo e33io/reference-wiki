@@ -84,6 +84,6 @@ $mod+x               Lock screen
 $mod+p               Power menu (lock, logout, reboot, shutdown)
 ```
 
-View the [~/.config/i3/config](https://github.com/e33io/dotfiles/tree/main/item/.config/i3/config) file to see all the configured keybindings that aren’t indicated in the box above
+View the [~/.config/i3/config](https://github.com/e33io/dotfiles/blob/main/.config/i3/config) file to see all the configured keybindings that aren’t indicated in the box above
 
 &nbsp;
