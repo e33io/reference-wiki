@@ -8,7 +8,7 @@ documentation and Linux related notes
 
 - view my custom [keybindings](https://github.com/e33io/reference-wiki/tree/main/keybindings) for [i3](https://github.com/e33io/reference-wiki/tree/main/keybindings/i3-keybindings.md), [JWM](https://github.com/e33io/reference-wiki/tree/main/keybindings/jwm-keybindings.md), [Xfce](https://github.com/e33io/reference-wiki/tree/main/keybindings/xfce-keybindings.md) and more
 
-- view my linux related [notes](https://github.com/e33io/reference-wiki/tree/main/item/notes)
+- view my linux related [notes](https://github.com/e33io/reference-wiki/tree/main/notes)
 
 ### Links
 
