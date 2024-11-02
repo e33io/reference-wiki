@@ -1,6 +1,6 @@
 # openSUSE Tumbleweed i3 Installation
 
-The steps below work well with an openSUSE Tumbleweed "Generic Desktop" base installation as I covered in a [wiki document](https://git.sr.ht/~e33io/reference-wiki/tree/main/item/installation-docs/opensuse-generic-desktop-installation.md), and will install [i3](https://i3wm.org) with my [custom configurations and theming](https://git.sr.ht/~e33io/dotfiles), along with a good base set of applications. The default configuration is for use with HiDPI monitors (192 dpi settings) and desktop-type computers, but there are options at the end of the script that let you change to 96 dpi settings for use with non-HiDPI monitors, and/or change to laptop-type (battery powered) computer settings. View my [custom keybindings](https://git.sr.ht/~e33io/reference-wiki/tree/main/item/keybindings/i3-keybindings.md) to use session.
+The steps below work well with an openSUSE Tumbleweed "Generic Desktop" base installation as I covered in a [wiki document](https://github.com/e33io/reference-wiki/tree/main/installation-docs/opensuse-generic-desktop-installation.md), and will install [i3](https://i3wm.org) with my [custom configurations and theming](https://github.com/e33io/dotfiles), along with a good base set of applications. The default configuration is for use with HiDPI monitors (192 dpi settings) and desktop-type computers, but there are options at the end of the script that let you change to 96 dpi settings for use with non-HiDPI monitors, and/or change to laptop-type (battery powered) computer settings. View my [custom keybindings](https://github.com/e33io/reference-wiki/tree/main/keybindings/i3-keybindings.md) to use session.
 
 &nbsp;
 
@@ -9,9 +9,9 @@ Step 1: Install Git
 sudo zypper install git
 ```
 
-Step 2: Clone my [custom scripts](https://git.sr.ht/~e33io/scripts)
+Step 2: Clone my [custom scripts](https://github.com/e33io/scripts)
 ```
-git clone https://git.sr.ht/~e33io/scripts
+git clone https://github.com/e33io/scripts
 ```
 
 Step 3: Change the directory to the `scripts` directory

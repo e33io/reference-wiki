@@ -20,7 +20,7 @@ Select > Add Partition, and add the following partitions:
 - 0.25 GiB > EFI Boot Partition > `/boot/efi`
 - 1.0 GiB > Data and ISV Applications > Ext4 > `/boot`
 - Remaining size > Data and ISV Applications > Ext4 > `/` > Encrypt Device, then enter passphrase
-> NOTE: Make a [swap file](https://git.sr.ht/~e33io/reference-wiki/tree/main/item/installation-docs/opensuse-generic-desktop-installation.md#make-and-setup-a-swap-file) post-install instead of this stage
+> NOTE: Make a [swap file](https://github.com/e33io/reference-wiki/tree/main/installation-docs/opensuse-generic-desktop-installation.md#make-and-setup-a-swap-file) post-install instead of this stage
 
 Select > Time Zone, then select your local time zone
 
