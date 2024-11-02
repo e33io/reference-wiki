@@ -1,0 +1,56 @@
+# Debian Gnome Installation
+
+The steps below work well with a Debian base installation as I covered in a [blog post](https://e33.io/913), and will install [Gnome](https://www.gnome.org) with my [custom configurations and theming](https://git.sr.ht/~e33io/dotfiles), along with a good base set of applications. View my [custom keybindings](https://git.sr.ht/~e33io/reference-wiki/tree/main/item/keybindings/gnome-keybindings.md) to use session. NOTE: See [optional steps](https://git.sr.ht/~e33io/reference-wiki/tree/main/item/installation-docs/debian-gnome-installation.md#optional-disable-2x-scaling-on-plymouth-screen-and-gdm-display-manager) 6 and 7 to disable 2x scaling on Plymouth screen and GDM display manager, for use with non-HiDPI monitors.
+
+&nbsp;
+
+Step 1: Install Git
+```
+sudo apt install git
+```
+
+Step 2: Clone my [custom scripts](https://git.sr.ht/~e33io/scripts)
+```
+git clone https://git.sr.ht/~e33io/scripts
+```
+
+Step 3: Change the directory to the `scripts` directory
+```
+cd scripts
+```
+
+Step 4: Run the Gnome script
+```
+sh deb-post-install-gnome.sh
+```
+
+Step 5: Reboot the PC
+```
+systemctl reboot
+```
+
+&nbsp;
+
+## Optional: Disable 2x scaling on Plymouth screen and GDM display manager
+
+Step 6: Edit the `greeter.dconf-defaults` file
+```
+sudo nano /etc/gdm3/greeter.dconf-defaults
+```
+
+Comment out the following line
+```
+# scaling-factor=uint32 2
+```
+
+Step 7: Edit the `plymouthd.conf` file
+```
+sudo nano /etc/plymouth/plymouthd.conf
+```
+
+Comment out the following line
+```
+# DeviceScale=2
+```
+
+&nbsp;
