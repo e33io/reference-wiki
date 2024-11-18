@@ -25,6 +25,7 @@ Super+d              Program launcher (Application Finder)
 Super+Return         Launch terminal
 Super+Shift+Return   Launch file manager
 Super+b              Launch web browser
+Super+t              Launch text editor
 Super+1              Switch to workspace 1
 Super+2              Switch to workspace 2
 Super+3              Switch to workspace 3
