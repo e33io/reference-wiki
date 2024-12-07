@@ -1,6 +1,6 @@
 # Debian Cinnamon Installation
 
-The steps below work well with a Debian base installation as I covered in a [blog post](https://e33.io/913), and will install [Cinnamon](https://projects.linuxmint.com/cinnamon) with my [custom configurations and theming](https://github.com/e33io/dotfiles), along with a good base set of applications. View my [custom keybindings](https://github.com/e33io/reference-wiki/tree/main/keybindings/cinnamon-keybindings.md) to use session.
+The steps below work well with a Debian base installation as I covered in a [blog post](https://e33.io/913), and will install [Cinnamon](https://projects.linuxmint.com/cinnamon) with my [custom configurations and theming](https://github.com/e33io/opt-dots), along with a good base set of applications. View my [custom keybindings](https://github.com/e33io/reference-wiki/tree/main/keybindings/cinnamon-keybindings.md) to use session.
 
 &nbsp;
 

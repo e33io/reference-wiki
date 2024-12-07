@@ -1,6 +1,6 @@
 # Debian Gnome Installation
 
-The steps below work well with a Debian base installation as I covered in a [blog post](https://e33.io/913), and will install [Gnome](https://www.gnome.org) with my [custom configurations and theming](https://github.com/e33io/dotfiles), along with a good base set of applications. View my [custom keybindings](https://github.com/e33io/reference-wiki/tree/main/keybindings/gnome-keybindings.md) to use session. NOTE: See [optional steps](https://github.com/e33io/reference-wiki/tree/main/installation-docs/debian-gnome-installation.md#optional-disable-2x-scaling-on-plymouth-screen-and-gdm-display-manager) 6 and 7 to disable 2x scaling on Plymouth screen and GDM display manager, for use with non-HiDPI monitors.
+The steps below work well with a Debian base installation as I covered in a [blog post](https://e33.io/913), and will install [Gnome](https://www.gnome.org) with my [custom configurations and theming](https://github.com/e33io/opt-dots), along with a good base set of applications. View my [custom keybindings](https://github.com/e33io/reference-wiki/tree/main/keybindings/gnome-keybindings.md) to use session. NOTE: See [optional steps](https://github.com/e33io/reference-wiki/tree/main/installation-docs/debian-gnome-installation.md#optional-disable-2x-scaling-on-plymouth-screen-and-gdm-display-manager) 6 and 7 to disable 2x scaling on Plymouth screen and GDM display manager, for use with non-HiDPI monitors.
 
 &nbsp;
 

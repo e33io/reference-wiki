@@ -1,6 +1,6 @@
 # Debian LXQt Installation
 
-The steps below work well with a Debian base installation as I covered in a [blog post](https://e33.io/913), and will install [LXQt](https://lxqt-project.org) with my [custom configurations and theming](https://github.com/e33io/dotfiles), along with a good base set of applications. The default configuration is for use with HiDPI monitors (192 dpi settings), but there is an option at the end of the script that lets you change to 96 dpi settings for use with non-HiDPI monitors. View my [custom keybindings](https://github.com/e33io/reference-wiki/tree/main/keybindings/lxqt-keybindings.md) to use session.
+The steps below work well with a Debian base installation as I covered in a [blog post](https://e33.io/913), and will install [LXQt](https://lxqt-project.org) with my [custom configurations and theming](https://github.com/e33io/opt-dots), along with a good base set of applications. The default configuration is for use with HiDPI monitors (192 dpi settings), but there is an option at the end of the script that lets you change to 96 dpi settings for use with non-HiDPI monitors. View my [custom keybindings](https://github.com/e33io/reference-wiki/tree/main/keybindings/lxqt-keybindings.md) to use session.
 
 &nbsp;
 
