@@ -6,7 +6,7 @@ documentation and Linux related notes
 
 - view my [installation-docs](https://github.com/e33io/reference-wiki/tree/main/installation-docs) for [Debian](https://github.com/e33io/reference-wiki/tree/main/installation-docs/debian-base-installation.md), [i3](https://github.com/e33io/reference-wiki/tree/main/installation-docs/debian-i3-installation.md), [JWM](https://github.com/e33io/reference-wiki/tree/main/installation-docs/debian-jwm-installation.md), [Xfce](https://github.com/e33io/reference-wiki/tree/main/installation-docs/debian-xfce-installation.md) and more
 
-- view my custom [keybindings](https://github.com/e33io/reference-wiki/tree/main/keybindings) for [i3](https://github.com/e33io/reference-wiki/tree/main/keybindings/i3-keybindings.md), [JWM](https://github.com/e33io/reference-wiki/tree/main/keybindings/jwm-keybindings.md), [Xfce](https://github.com/e33io/reference-wiki/tree/main/keybindings/xfce-keybindings.md) and more
+- view my custom [keybindings](https://github.com/e33io/reference-wiki/tree/main/keybindings) for [i3](https://github.com/e33io/reference-wiki/tree/main/keybindings/i3-keybindings.md), [JWM](https://github.com/e33io/reference-wiki/tree/main/keybindings/jwm-keybindings.md), [Xfce](https://github.com/e33io/reference-wiki/tree/main/keybindings/xfce-keybindings.md)
 
 - view my linux related [notes](https://github.com/e33io/reference-wiki/tree/main/notes)
 
@@ -20,7 +20,7 @@ documentation and Linux related notes
 
 - view my [theming](https://github.com/e33io/theming) repo
 
-- view my [fonts](https://github.com/e33io/fonts) repo
+- view my [Sovran fonts](https://github.com/e33io/sovran-fonts) repo
 
 - view my collection of made and found [wallpapers](https://i.e33.io/wallpapers)
 
