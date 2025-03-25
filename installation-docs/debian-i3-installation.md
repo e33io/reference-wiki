@@ -1,6 +1,6 @@
 # Debian i3 Installation
 
-The steps below work well with a Debian base installation as I covered in a [blog post](https://e33.io/913), and will install [i3](https://i3wm.org) with my [custom configurations and theming](https://github.com/e33io/dotfiles), along with a good base set of applications. The default configuration is for use with HiDPI monitors (192 dpi settings) and desktop-type computers, but there are options at the end of the script that let you change to 96 dpi settings for use with non-HiDPI monitors, and/or change to laptop-type (battery powered) computer settings. View my [custom keybindings](https://github.com/e33io/reference-wiki/tree/main/keybindings/i3-keybindings.md) to use session.
+The steps below work well with a Debian base installation as I covered in a [blog post](https://e33.io/913), and will install [i3](https://i3wm.org) with my [custom configurations and theming](https://github.com/e33io/dotfiles), along with a good base set of applications. The default configuration is for use with HiDPI monitors (192 dpi settings for 2x scaling) and desktop-type computers, but there are options at the end of the script that let you change to non-HiDPI monitors (96 dpi settings for 1x scaling), and/or change to laptop-type (battery powered) computer settings. View my [custom keybindings](https://github.com/e33io/reference-wiki/tree/main/keybindings/i3-keybindings.md) to use session.
 
 &nbsp;
 
@@ -26,12 +26,12 @@ sh deb-post-install-i3.sh
 
 Step 5: At the end of the script you will see the option below, and answer `n` (for no) to keep the default HiDPI settings or `y` (for yes) to change to non-HiDPI settings
 ```
-NOTE: The configs that were installed with this script
-are based on using HiDPI monitors (192 dpi settings).
-The option below lets you change to 96 dpi settings for
-use with non-HiDPI monitors.
----------------------------------------------------------
-Do you want to change to 96 dpi non-HiDPI settings? (y/n)
+NOTE: The configs that were installed with this script are
+based on using HiDPI monitors (192 dpi settings for 2x scaling).
+The option below lets you change to non-HiDPI monitors
+(96 dpi settings for 1x scaling).
+----------------------------------------------------------------
+Do you want to change to 96 dpi settings for 1x scaling?
 ```
 
 Step 6: After the option above, you will see the option below, and answer `n` (for no) to keep the default desktop-type computer settings or `y` (for yes) to change to laptop-type computer settings, then you will see “All done, you can now run other commands or reboot the PC” when the script is finished
