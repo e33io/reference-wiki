@@ -1,12 +1,12 @@
-# Debian JWM Installation
+# Arch i3 Installation
 
-The steps below work well with a Debian base installation as I covered in a [blog post](https://e33.io/913), and will install [JWM](https://joewing.net/projects/jwm) with my [custom configurations and theming](https://github.com/e33io/dotfiles), along with a good base set of applications. The default configuration is for use with HiDPI monitors (192 dpi settings for 2x scaling) and desktop-type computers, but there are options at the end of the script that let you change to non-HiDPI monitors (96 dpi settings for 1x scaling), and/or change to laptop-type (battery powered) computer settings. View my [custom keybindings](https://github.com/e33io/reference-wiki/tree/main/keybindings/jwm-keybindings.md) to use session.
+The steps below work well with an [Arch](https://wiki.archlinux.org/title/Archinstall) minimal installation, and will install [i3](https://i3wm.org) with my [custom configurations and theming](https://github.com/e33io/dotfiles), along with a good base set of applications. The default configuration is for use with HiDPI monitors (192 dpi settings for 2x scaling) and desktop-type computers, but there are options at the end of the script that let you change to non-HiDPI monitors (96 dpi settings for 1x scaling), and/or change to laptop-type (battery powered) computer settings. View my [custom keybindings](https://github.com/e33io/reference-wiki/tree/main/keybindings/i3-keybindings.md) to use session.
 
 &nbsp;
 
 Step 1: Install Git
 ```
-sudo apt install git
+sudo pacman -S git
 ```
 
 Step 2: Clone my [custom scripts](https://github.com/e33io/scripts)
@@ -19,9 +19,9 @@ Step 3: Change the directory to the `scripts` directory
 cd scripts
 ```
 
-Step 4: Run the JWM script
+Step 4: Run the i3 script
 ```
-sh deb-post-install-jwm.sh
+sh arch-post-install-i3.sh
 ```
 
 Step 5: At the end of the script you will see the option below for what type of monitor are you using, and answer `1` for Standard HD (96 dpi settings for 1x scaling), or `2` for HiDPI (192 dpi settings for 2x scaling)
@@ -50,7 +50,7 @@ What type of computer are you using?
 
 Step 7: Reboot the PC
 ```
-systemctl reboot
+reboot
 ```
 
 &nbsp;

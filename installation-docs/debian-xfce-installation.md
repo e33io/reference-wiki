@@ -24,14 +24,16 @@ Step 4: Run the Xfce script
 sh deb-post-install-xfce.sh
 ```
 
-Step 5: At the end of the script you will see the option below, and answer `n` (for no) to keep the default HiDPI settings or `y` (for yes) to change to non-HiDPI settings, then you will see “All done, you can now run other commands or reboot the PC” when the script is finished
+Step 5: At the end of the script you will see the option below for what type of monitor are you using, and answer `1` for Standard HD (96 dpi settings for 'Window Scaling 1x'), or `2` for HiDPI (192 dpi settings for 'Window Scaling 2x')
 ```
-NOTE: The configs that were installed with this script
-are based on using 'Window Scaling 2x' for HiDPI monitors.
-The option below lets you change to 'Window Scaling 1x'
-settings for use with non-HiDPI monitors.
+################################################################
+The option below lets you select a configuration specific
+to your monitor type for proper display scaling.
+################################################################
+   1) Standard HD (96 dpi settings for 'Window Scaling 1x')
+   2) HiDPI (192 dpi settings for 'Window Scaling 2x')
 ----------------------------------------------------------------
-Do you want to change to 'Window Scaling 1x' non-HiDPI settings?
+What type of monitor are you using?
 ```
 
 Step 6: Reboot the PC
