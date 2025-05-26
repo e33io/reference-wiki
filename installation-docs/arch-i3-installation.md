@@ -1,6 +1,6 @@
 # Arch i3 Installation
 
-The steps below work well with an [Arch](https://wiki.archlinux.org/title/Archinstall) minimal installation, and will install [i3](https://i3wm.org) with my [custom configurations and theming](https://github.com/e33io/dotfiles), along with a good base set of applications. The default configuration is for use with HiDPI monitors (192 dpi settings for 2x scaling) and desktop-type computers, but there are options at the end of the script that let you change to non-HiDPI monitors (96 dpi settings for 1x scaling), and/or change to laptop-type (battery powered) computer settings. View my [custom keybindings](https://github.com/e33io/reference-wiki/tree/main/keybindings/i3-keybindings.md) to use session.
+The steps below work well with an [Arch](https://wiki.archlinux.org/title/Archinstall) "Minimal" (Profile > Type > Minimal) installation, and will install [i3](https://i3wm.org) with my [custom configurations and theming](https://github.com/e33io/dotfiles), along with a good base set of applications. The default configuration is for use with HiDPI monitors (192 dpi settings for 2x scaling) and desktop-type computers, but there are options at the end of the script that let you change to non-HiDPI monitors (96 dpi settings for 1x scaling), and/or change to laptop-type (battery powered) computer settings. View my [custom keybindings](https://github.com/e33io/reference-wiki/tree/main/keybindings/i3-keybindings.md) to use session.
 
 &nbsp;
 
