@@ -18,6 +18,7 @@ Section "Device"
 	Option     "TearFree" "true"
 EndSection
 ```
+NOTE: You will need `xserver-xorg-video-amdgpu` or `xf86-video-amdgpu` installed
 
 &nbsp;
 
@@ -33,10 +34,8 @@ Section "Device"
 	Identifier "Intel Graphics"
 	Driver     "intel"
 	Option     "TearFree" "true"
-	Option     "TripleBuffer" "true"
-	Option     "NoAccel" "True"
-	Option     "DRI" "False"
 EndSection
 ```
+NOTE: You will need `xserver-xorg-video-intel` or `xf86-video-intel` installed
 
 &nbsp;
