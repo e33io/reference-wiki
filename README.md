@@ -1,6 +1,6 @@
 # reference-wiki
 
-documentation and Linux related notes
+documentation and linux related notes
 
 ### Wiki
 
