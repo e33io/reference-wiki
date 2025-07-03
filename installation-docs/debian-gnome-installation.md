@@ -26,7 +26,7 @@ sh deb-post-install-gnome.sh
 
 Step 5: Reboot the PC
 ```
-systemctl reboot
+sudo reboot
 ```
 
 &nbsp;

@@ -1,6 +1,6 @@
 # Debian JWM Installation
 
-The steps below work well with a Debian base installation as I covered in a [blog post](https://e33.io/913), and will install [JWM](https://joewing.net/projects/jwm) with my [custom configurations and theming](https://github.com/e33io/dotfiles), along with a good base set of applications. The default configuration is for use with HiDPI monitors (192 dpi settings for 2x scaling) and desktop-type computers, but there are options at the end of the script that let you change to non-HiDPI monitors (96 dpi settings for 1x scaling), and/or change to laptop-type (battery powered) computer settings. View my [custom keybindings](https://github.com/e33io/reference-wiki/tree/main/keybindings/jwm-keybindings.md) to use session.
+The steps below work well with a Debian base installation as I covered in a [blog post](https://e33.io/913), and will install [JWM](https://joewing.net/projects/jwm) with my [custom configurations and theming](https://github.com/e33io/dotfiles), along with a good base set of applications. The default configuration is for use with HiDPI monitors (192 dpi settings for 2x scaling), but there is an option at the end of the script that lets you change to standard HD monitors (96 dpi settings for 1x scaling). View my [custom keybindings](https://github.com/e33io/reference-wiki/tree/main/keybindings/jwm-keybindings.md) to use session.
 
 &nbsp;
 
@@ -36,21 +36,9 @@ to your monitor type for proper display scaling.
 What type of monitor are you using?
 ```
 
-Step 6: After the option above, you will see the option below for what type of computer are you using, and answer `1` for Desktop, or `2` for Laptop
+Step 6: Reboot the PC
 ```
-################################################################
-The option below lets you select a configuration
-specific to your computer type.
-################################################################
-   1) Desktop
-   2) Laptop
-----------------------------------------------------------------
-What type of computer are you using?
-```
-
-Step 7: Reboot the PC
-```
-systemctl reboot
+sudo reboot
 ```
 
 &nbsp;

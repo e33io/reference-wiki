@@ -26,7 +26,7 @@ sh deb-post-install-mate.sh
 
 Step 5: Reboot the PC
 ```
-systemctl reboot
+sudo reboot
 ```
 
 &nbsp;
