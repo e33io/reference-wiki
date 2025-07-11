@@ -52,6 +52,14 @@ Mod4+S+m        Maximize and unmaximize active window
 Mod4+S+v        Maximize and unmaximize active window vertically
 Mod4+S+h        Maximize and unmaximize active window horizontally
 Mod4+S+i        Minimize (hide) active window to tray
+Mod4+C+Right    Move active window right
+Mod4+C+Left     Move active window left
+Mod4+C+Up       Move active window up
+Mod4+C+Down     Move active window down
+C+S+Right       Resize active window width larger
+C+S+Left        Resize active window width smaller
+C+S+Up          Resize active window height larger
+C+S+Down        Resize active window height smaller
 Mod4+S+space    Move active window to center of screen
 Mod4+Right      Tile active window right
 Mod4+Left       Tile active window left

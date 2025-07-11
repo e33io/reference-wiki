@@ -47,6 +47,14 @@ Super+Shift+m        Maximize and unmaximize active window
 Super+Shift+v        Maximize and unmaximize active window vertically
 Super+Shift+h        Maximize and unmaximize active window horizontally
 Super+Shift+i        Minimize (hide) active window to panel
+Super+Ctrl+Right     Move active window right
+Super+Ctrl+Left      Move active window left
+Super+Ctrl+Up        Move active window up
+Super+Ctrl+Down      Move active window down
+Ctrl+Shift+Right     Resize active window width larger
+Ctrl+Shift+Left      Resize active window width smaller
+Ctrl+Shift+Up        Resize active window height larger
+Ctrl+Shift+Down      Resize active window height smaller
 Super+Shift+Space    Move active window to center of screen
 Super+Right          Tile active window right
 Super+Left           Tile active window left
