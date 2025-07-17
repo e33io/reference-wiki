@@ -51,7 +51,6 @@ Mod4+S+f        Toggle active window fullscreen
 Mod4+S+m        Maximize and unmaximize active window
 Mod4+S+v        Maximize and unmaximize active window vertically
 Mod4+S+h        Maximize and unmaximize active window horizontally
-Mod4+S+i        Minimize (hide) active window to tray
 Mod4+C+Right    Move active window right
 Mod4+C+Left     Move active window left
 Mod4+C+Up       Move active window up
