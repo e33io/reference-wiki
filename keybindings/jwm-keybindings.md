@@ -57,8 +57,8 @@ Mod4+C+Up       Move active window up
 Mod4+C+Down     Move active window down
 C+S+Right       Resize active window width larger
 C+S+Left        Resize active window width smaller
-C+S+Up          Resize active window height larger
-C+S+Down        Resize active window height smaller
+C+S+Up          Resize active window height smaller
+C+S+Down        Resize active window height larger
 Mod4+S+space    Move active window to center of screen
 Mod4+Right      Tile active window right
 Mod4+Left       Tile active window left

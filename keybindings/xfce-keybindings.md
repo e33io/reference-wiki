@@ -53,8 +53,8 @@ Super+Ctrl+Up        Move active window up
 Super+Ctrl+Down      Move active window down
 Ctrl+Shift+Right     Resize active window width larger
 Ctrl+Shift+Left      Resize active window width smaller
-Ctrl+Shift+Up        Resize active window height larger
-Ctrl+Shift+Down      Resize active window height smaller
+Ctrl+Shift+Up        Resize active window height smaller
+Ctrl+Shift+Down      Resize active window height larger
 Super+Shift+Space    Move active window to center of screen
 Super+Right          Tile active window right
 Super+Left           Tile active window left
