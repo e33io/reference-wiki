@@ -31,4 +31,4 @@ documentation and linux related notes
 - follow on nostr [`npub17kyn2rjwfegmr3ff3gwtsllksmkguphqnnhx9snaht4sft7c8esqssg0pz`](https://primal.net/p/npub17kyn2rjwfegmr3ff3gwtsllksmkguphqnnhx9snaht4sft7c8esqssg0pz)
 
 ### License
-[BSD Zero Clause License](https://github.com/e33io/reference-wiki/blob/main/LICENSE)
+[The Unlicense](https://github.com/e33io/reference-wiki/blob/main/LICENSE)
