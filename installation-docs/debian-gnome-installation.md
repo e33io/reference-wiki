@@ -21,7 +21,7 @@ cd scripts
 
 Step 4: Run the Gnome script
 ```
-sh deb-post-install-gnome.sh
+sh debian-install-gnome.sh
 ```
 
 Step 5: Reboot the PC

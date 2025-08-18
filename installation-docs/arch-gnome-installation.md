@@ -21,7 +21,7 @@ cd scripts
 
 Step 4: Run the Gnome script
 ```
-sh arch-post-install-gnome.sh
+sh arch-install-gnome.sh
 ```
 
 Step 5: Reboot the PC

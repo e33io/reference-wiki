@@ -21,7 +21,7 @@ cd scripts
 
 Step 4: Run the JWM script
 ```
-sh deb-post-install-jwm.sh
+sh debian-install-jwm.sh
 ```
 
 Step 5: At the end of the script you will see the option below for what type of monitor are you using, and answer `1` for Standard HD (96 dpi settings for 1x scaling), or `2` for HiDPI (192 dpi settings for 2x scaling)

@@ -21,7 +21,7 @@ cd scripts
 
 Step 4: Run the Xfce script
 ```
-sh arch-post-install-xfce.sh
+sh arch-install-xfce.sh
 ```
 
 Step 5: At the end of the script you will see the option below for what type of monitor are you using, and answer `1` for Standard HD (96 dpi settings for 'Window Scaling 1x'), or `2` for HiDPI (192 dpi settings for 'Window Scaling 2x')
