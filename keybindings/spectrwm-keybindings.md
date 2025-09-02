@@ -80,6 +80,6 @@ MOD+x                 Lock screen
 MOD+p                 Power menu (lock, logout, reboot, shutdown)
 ```
 
-View the [~/.config/spectrwm/spectrwm.conf](https://github.com/e33io/dotfiles/blob/main/.config/spectrwm/spectrwm.conf) file to see all the configured keybindings that aren’t indicated in the box above
+View the [~/.config/spectrwm/spectrwm.conf](https://github.com/e33io/opt-dots/blob/main/spectrwm/.config/spectrwm/spectrwm.conf) file to see all the configured keybindings that aren’t indicated in the box above
 
 &nbsp;
