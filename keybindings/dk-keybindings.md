@@ -36,6 +36,8 @@ super+6              Switch to workspace 6
 super+7              Switch to workspace 7
 super+8              Switch to workspace 8
 super+9              Switch to workspace 9
+ctrl+alt+Right       Switch to next workspace
+ctrl+alt+Left        Switch to previous workspace
 super+shift+1        Move active window to workspace 1
 super+shift+2        Move active window to workspace 2
 super+shift+3        Move active window to workspace 3
@@ -45,14 +47,16 @@ super+shift+6        Move active window to workspace 6
 super+shift+7        Move active window to workspace 7
 super+shift+8        Move active window to workspace 8
 super+shift+9        Move active window to workspace 9
+super+shift+Right    Move active window to workspace right
+super+shift+Left     Move active window to workspace left
 super+Up             Move the active window up the stack
 super+Down           Move the active window down the stack
 super+Right          Change active window focus right (next)
 super+Left           Change active window focus left (previous)
-super+shift+Right    Resize active window width larger
-super+shift+Left     Resize active window width smaller
-super+shift+Up       Resize active window height smaller
-super+shift+Down     Resize active window height larger
+ctrl+shift+Right     Resize active window width larger
+ctrl+shift+Left      Resize active window width smaller
+ctrl+shift+Up        Resize active window height smaller
+ctrl+shift+Down      Resize active window height larger
 super+ctrl+Right     Move active window right
 super+ctrl+Left      Move active window left
 super+ctrl+Up        Move active window up
