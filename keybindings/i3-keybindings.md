@@ -55,14 +55,14 @@ $mod+Right           Change active window focus right
 $mod+Left            Change active window focus left
 $mod+Up              Change active window focus up
 $mod+Down            Change active window focus down
-$mod+Shift+Right     Move active window right
-$mod+Shift+Left      Move active window left
-$mod+Shift+Up        Move active window up
-$mod+Shift+Down      Move active window down
-Shift+Right          Resize (grow) active window wider
-Shift+Left           Resize (shrink) active window narrower
-Shift+Up             Resize (shrink) active window shorter
-Shift+Down           Resize (grow) active window taller
+$mod+ctrl+Right      Move active window right
+$mod+ctrl+Left       Move active window left
+$mod+ctrl+Up         Move active window up
+$mod+ctrl+Down       Move active window down
+ctrl+Shift+Right     Resize (grow) active window wider
+ctrl+Shift+Left      Resize (shrink) active window narrower
+ctrl+Shift+Up        Resize (shrink) active window shorter
+ctrl+Shift+Down      Resize (grow) active window taller
 $mod+Shift+space     Toggle active window floating
 $mod+button1         Move active floating window
 $mod+button3         Resize active floating window, non-proportionally
