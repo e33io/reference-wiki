@@ -1,6 +1,6 @@
-# Debian JWM Installation
+# Debian Openbox Installation
 
-The steps below work well with a Debian base installation as I covered in a [blog post](https://e33.io/913), and will install [JWM](https://joewing.net/projects/jwm) with my [custom configurations and theming](https://github.com/e33io/opt-dots), along with a good base set of applications. The default configuration is for use with HiDPI monitors (192 dpi settings for 2x scaling), but there is an option at the end of the script that lets you change to standard HD monitors (96 dpi settings for 1x scaling). View my [custom keybindings](https://github.com/e33io/reference-wiki/tree/main/keybindings/jwm-keybindings.md) to use session.
+The steps below work well with a Debian base installation as I covered in a [blog post](https://e33.io/913), and will install [Openbox](https://openbox.org) with my [custom configurations and theming](https://github.com/e33io/opt-dots), along with a good base set of applications. The default configuration is for use with HiDPI monitors (192 dpi settings for 2x scaling), but there is an option at the end of the script that lets you change to standard HD monitors (96 dpi settings for 1x scaling). View my [custom keybindings](https://github.com/e33io/reference-wiki/tree/main/keybindings/openbox-keybindings.md) to use session.
 
 &nbsp;
 
@@ -19,9 +19,9 @@ Step 3: Change the directory to the `scripts` directory
 cd scripts
 ```
 
-Step 4: Run the JWM script
+Step 4: Run the Openbox script
 ```
-sh debian-install-jwm.sh
+sh debian-install-openbox.sh
 ```
 
 Step 5: At the end of the script you will see the option below for what type of monitor are you using, and answer `1` for Standard HD (96 dpi settings for 1x scaling), or `2` for HiDPI (192 dpi settings for 2x scaling)
