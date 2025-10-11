@@ -80,6 +80,6 @@ Mod4+button3 in the window and drag     Resize active window
 button1 on the window border and drag   Resize active window
 ```
 
-View the [~/.config/jwm/jwmrc](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/jwmrc) file to see all the configured keybindings that aren’t indicated in the box above
+View the [~/.config/jwm/jwmrc](https://github.com/e33io/extra/blob/main/jwm/.config/jwm/jwmrc) file to see all the configured keybindings that aren’t indicated in the box above
 
 &nbsp;

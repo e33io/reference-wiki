@@ -78,6 +78,6 @@ super+button1 in the window and drag   Move active window
 super+button3 in the window and drag   Resize active window
 ```
 
-View the [~/.config/dk/sxhkdrc](https://github.com/e33io/opt-dots/blob/main/dk/.config/dk/sxhkdrc) file to see all the configured keybindings that aren’t indicated in the box above
+View the [~/.config/dk/sxhkdrc](https://github.com/e33io/extra/blob/main/dk/.config/dk/sxhkdrc) file to see all the configured keybindings that aren’t indicated in the box above
 
 &nbsp;

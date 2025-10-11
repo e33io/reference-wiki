@@ -1,6 +1,6 @@
 # Debian JWM Installation
 
-The steps below work well with a Debian base installation as I covered in a [blog post](https://e33.io/913), and will install [JWM](https://joewing.net/projects/jwm) with my [custom configurations and theming](https://github.com/e33io/opt-dots), along with a good base set of applications. The default configuration is for use with HiDPI monitors (192 dpi settings for 2x scaling), but there is an option at the end of the script that lets you change to standard HD monitors (96 dpi settings for 1x scaling). View my [custom keybindings](https://github.com/e33io/reference-wiki/tree/main/keybindings/jwm-keybindings.md) to use session.
+The steps below work well with a Debian base installation as I covered in a [blog post](https://e33.io/913), and will install [JWM](https://joewing.net/projects/jwm) with my [custom configurations and theming](https://github.com/e33io/extra), along with a good base set of applications. The default configuration is for use with HiDPI monitors (192 dpi settings for 2x scaling), but there is an option at the end of the script that lets you change to standard HD monitors (96 dpi settings for 1x scaling). View my [custom keybindings](https://github.com/e33io/reference-wiki/tree/main/keybindings/jwm-keybindings.md) to use session.
 
 &nbsp;
 

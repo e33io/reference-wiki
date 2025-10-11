@@ -16,7 +16,7 @@ documentation and linux related notes
 
 - view my [dotfiles](https://github.com/e33io/dotfiles) repo
 
-- view my [opt-dots](https://github.com/e33io/opt-dots) repo
+- view my [opt-dots](https://github.com/e33io/extra) repo
 
 - view my [theming](https://github.com/e33io/theming) repo
 

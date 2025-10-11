@@ -78,6 +78,6 @@ W+button3 in the window and drag        Resize active window
 button1 on the window border and drag   Resize active window
 ```
 
-View the [~/.config/openbox/rc.xml](https://github.com/e33io/opt-dots/blob/main/openbox/.config/openbox/rc.xml) file to see all the configured keybindings that aren’t indicated in the box above
+View the [~/.config/openbox/rc.xml](https://github.com/e33io/extra/blob/main/openbox/.config/openbox/rc.xml) file to see all the configured keybindings that aren’t indicated in the box above
 
 &nbsp;
