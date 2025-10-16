@@ -11,17 +11,17 @@ cd ~
 
 Download git source code
 ```
-wget https://www.kernel.org/pub/software/scm/git/git-2.43.0.tar.gz
+wget https://www.kernel.org/pub/software/scm/git/git-2.51.1.tar.gz
 ```
 
 Extract git source code
 ```
-tar xzf git-2.43.0.tar.gz
+tar xzf git-2.51.1.tar.gz
 ```
 
 Navigate to git directory
 ```
-cd git-2.43.0/
+cd git-2.51.1/
 ```
 
 Compile and install git locally
