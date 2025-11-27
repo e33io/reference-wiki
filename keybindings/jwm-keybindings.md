@@ -33,6 +33,9 @@ Mod4+3          Switch to workspace 3
 Mod4+4          Switch to workspace 4
 Mod4+5          Switch to workspace 5
 Mod4+6          Switch to workspace 6
+Mod4+7          Switch to workspace 7
+Mod4+8          Switch to workspace 8
+Mod4+9          Switch to workspace 9
 C+A+Right       Switch to next workspace
 C+A+Left        Switch to previous workspace
 Mod4+S+1        Send active window to workspace 1
@@ -41,6 +44,9 @@ Mod4+S+3        Send active window to workspace 3
 Mod4+S+4        Send active window to workspace 4
 Mod4+S+5        Send active window to workspace 5
 Mod4+S+6        Send active window to workspace 6
+Mod4+S+7        Send active window to workspace 7
+Mod4+S+8        Send active window to workspace 8
+Mod4+S+9        Send active window to workspace 9
 Mod4+S+Right    Send active window to next workspace
 Mod4+S+Left     Send active window to previous workspace
 A+Tab           Change active window focus to next window
