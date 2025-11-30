@@ -14,9 +14,9 @@ documentation and linux related notes
 
 - view my [scripts](https://github.com/e33io/scripts) repo
 
-- view my [dotfiles](https://github.com/e33io/dotfiles) repo
+- view my [core](https://github.com/e33io/core) dotfiles repo
 
-- view my [extra](https://github.com/e33io/extra) repo
+- view my [extra](https://github.com/e33io/extra) dotfiles repo
 
 - view my [theming](https://github.com/e33io/theming) repo
 
