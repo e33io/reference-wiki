@@ -24,8 +24,6 @@ documentation and linux related notes
 
 - view my collection of made and found [wallpapers](https://i.e33.io/wallpapers)
 
-- view my [blog](https://e33.io)
-
 - view my [micro blog](https://micro.e33.io)
 
 - follow on nostr [`npub17kyn2rjwfegmr3ff3gwtsllksmkguphqnnhx9snaht4sft7c8esqssg0pz`](https://primal.net/p/npub17kyn2rjwfegmr3ff3gwtsllksmkguphqnnhx9snaht4sft7c8esqssg0pz)

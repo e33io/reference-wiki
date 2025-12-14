@@ -1,6 +1,6 @@
 # Debian Base Installation
 
-This is a summary of the key settings and steps for a base install of [Debian](https://www.debian.org) with encryption, without a desktop environment. For detailed step-by-step instructions using the Debian Graphical Installer, please see my [blog post](https://e33.io/913), otherwise see the highlights below.
+This is a summary of the key settings and steps for a base install of [Debian](https://www.debian.org) with encryption, without a desktop environment.
 
 &nbsp;
 
