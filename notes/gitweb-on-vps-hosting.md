@@ -37,7 +37,7 @@ source ~/.bashrc
 
 Copy gitweb files to your domain
 ```
-cp -R "$HOME"/git/share/gitweb/* "$HOME"/your_gitweb_domain
+cp -R ~/git/share/gitweb/* ~/your_gitweb_domain
 ```
 
 Create a `.htaccess` file in the `your_gitweb_domain` directory with the following lines
