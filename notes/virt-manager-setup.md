@@ -41,7 +41,7 @@ group = "libvirt"
 
 Run the commands below:
 ```
-sudo usermod -a -G libvirt $(whoami)
+sudo usermod -a -G libvirt "$(whoami)"
 sudo virsh net-autostart default
 ```
 
