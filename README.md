@@ -14,7 +14,7 @@ documentation and linux related notes
 
 - view my [scripts](https://github.com/e33io/scripts) repo
 
-- view my [dots](~/dotshttps://github.com/e33io/dots) dotfiles repo
+- view my [dots](https://github.com/e33io/dots) dotfiles repo
 
 - view my [theming](https://github.com/e33io/theming) repo
 
