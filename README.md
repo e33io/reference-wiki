@@ -4,9 +4,9 @@ documentation and linux related notes
 
 ### Wiki
 
-- view my [installation-docs](https://github.com/e33io/reference-wiki/tree/main/installation-docs) for [Debian](https://github.com/e33io/reference-wiki/tree/main/installation-docs/debian-base-installation.md) and [i3](https://github.com/e33io/reference-wiki/tree/main/installation-docs/debian-i3-installation.md)
+- view my [installation-docs](https://github.com/e33io/reference-wiki/tree/main/installation-docs)
 
-- view my custom [keybindings](https://github.com/e33io/reference-wiki/tree/main/keybindings) for [i3](https://github.com/e33io/reference-wiki/tree/main/keybindings/i3-keybindings.md)
+- view my custom [keybindings](https://github.com/e33io/reference-wiki/tree/main/keybindings)
 
 - view my linux related [notes](https://github.com/e33io/reference-wiki/tree/main/notes)
 
