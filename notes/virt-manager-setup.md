@@ -1,11 +1,6 @@
-# Virt-Manager Setup - Debian and Ubuntu
+# Virt-Manager Setup
 
 &nbsp;
-
-Install virt-manager
-```
-sudo apt install virt-manager
-```
 
 Edit this file:
 ```
