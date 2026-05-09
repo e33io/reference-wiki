@@ -12,6 +12,10 @@ documentation and linux related notes
 
 ### Links
 
+- view my [artix-i3](https://github.com/e33io/artix-i3) repo to install i3 on Artix
+
+- view my [arch-i3](https://github.com/e33io/arch-i3) repo to install i3 on Arch
+
 - view my [scripts](https://github.com/e33io/scripts) repo
 
 - view my [dots](https://github.com/e33io/dots) dotfiles repo
