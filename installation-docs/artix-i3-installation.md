@@ -1,6 +1,6 @@
 # Artix i3 Installation
 
-The steps below work well with an [Artix](https://artixlinux.org) "base" installation, and will install [i3](https://i3wm.org) with my [custom configurations and theming](https://github.com/e33io/dots), along with a good base set of applications. View my [custom keybindings](https://github.com/e33io/reference-wiki/tree/main/keybindings/i3-keybindings.md) to use session.
+The steps below work well with an [Artix](https://artixlinux.org) "base" OpenRC installation, and will install [i3](https://i3wm.org) with my [custom configurations and theming](https://github.com/e33io/dots), along with a good base set of applications. View my [custom keybindings](https://github.com/e33io/reference-wiki/tree/main/keybindings/i3-keybindings.md) to use session.
 
 &nbsp;
 
